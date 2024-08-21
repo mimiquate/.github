@@ -1,6 +1,7 @@
 # Our open-source projects
 
 - [blend](https://github.com/mimiquate/blend): Test your elixir package against different versions of its dependencies
+- [tower](https://github.com/mimiquate/tower): Solid, simple and versatile error handling and reporting in Elixir
 - [candlex](https://github.com/mimiquate/candlex): An Elixir Nx backend for rust candle machine learning framework
 - [slack_request](https://github.com/mimiquate/slack_request): Verifying requests from Slack
 - [timo](https://github.com/mimiquate/timo): An app for scheduling virtual meetings in the remote era
