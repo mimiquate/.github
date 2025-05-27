@@ -2,6 +2,7 @@
 
 - 🥣 [blend](https://github.com/mimiquate/blend): Test your Elixir package against different versions of its dependencies
 - 🏰 [tower](https://github.com/mimiquate/tower): Flexible error tracking and reporting in Elixir
+- [elixir_observer](https://github.com/mimiquate/elixir_observer): Find, compare, and explore Elixir packages for your next project.
 - [candlex](https://github.com/mimiquate/candlex): An Elixir Nx backend for rust candle machine learning framework
 - [slack_request](https://github.com/mimiquate/slack_request): Verify Slack webhook requests in Elixir
 - [timo](https://github.com/mimiquate/timo): An app for scheduling virtual meetings in the remote era
